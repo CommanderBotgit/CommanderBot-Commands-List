@@ -1,0 +1,13 @@
+Commands  Of version 1.0.0
+
+Fun Commands: 
+c!8ball c!hug
+
+Information Commands:
+c!botinfo, c!help c!invite c!ping
+
+Config Commands:
+c!setprefix c!setmodlog c!setwelcome
+
+Moderation Commands:
+c!purge c!kick c!ban c!slowmode
